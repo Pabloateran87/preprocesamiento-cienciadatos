@@ -34,3 +34,4 @@ def preprocesamiento_completo(ruta):
 
 if __name__ == "__main__":
     print("Modulo de preprocesamiento ejecutado correctamente.")
+    print("Workflow actualizado correctamente")
